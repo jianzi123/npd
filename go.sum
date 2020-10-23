@@ -202,7 +202,8 @@ k8s.io/api v0.0.0-20180127130940-acf347b865f2 h1:tKttsdYar5HhU8Ps0R5lelrd4YTZ84u
 k8s.io/api v0.0.0-20180127130940-acf347b865f2/go.mod h1:iuAfoD4hCxJ8Onx9kaTIt30j7jUFS00AXQi6QMi99vA=
 k8s.io/apimachinery v0.0.0-20180126010752-19e3f5aa3adc h1:+YMPfU/2f9LMz0Sy68+JodreTTgo9PNSpkLw3PakNbs=
 k8s.io/apimachinery v0.0.0-20180126010752-19e3f5aa3adc/go.mod h1:ccL7Eh7zubPUSh9A3USN90/OzHNSVN6zxzde07TDCL0=
-k8s.io/client-go v0.0.0-20180103015815-9389c055a838 h1:gguf74OUD2sGHanFJxot0PxbBMmldZeNwnbe5i1SMm0=
+#k8s.io/client-go v0.0.0-20180103015815-9389c055a838 h1:gguf74OUD2sGHanFJxot0PxbBMmldZeNwnbe5i1SMm0=
+k8s.io/client-go v0.0.0-20180103015815-9389c055a838 h1:3eHQsqKEOZ7zBLitCyNCfQkpyE996hTv3I4qAbXzhHU=
 k8s.io/client-go v0.0.0-20180103015815-9389c055a838/go.mod h1:7vJpHMYJwNQCWgzmNV+VYUl1zCObLyodBc8nIyt8L5s=
 k8s.io/heapster v0.0.0-20180704153620-b25f8a16208f h1:TEdSQIRnEe+5ajIJY/JZOfZvQO0w7aWmcmv/ZrZcTF4=
 k8s.io/heapster v0.0.0-20180704153620-b25f8a16208f/go.mod h1:h1uhptVXMwC8xtZBYsPXKVi8fpdlYkTs6k949KozGrM=
@@ -210,5 +211,6 @@ k8s.io/klog v0.3.2 h1:qvP/U6CcZ6qyi/qSHlJKdlAboCzo3mT0DAm0XAarpz4=
 k8s.io/klog v0.3.2/go.mod h1:Gq+BEi5rUBO/HRz0bTSXDUcqjScdoY3a9IHpCEIOOfk=
 k8s.io/kube-openapi v0.0.0-20180216212618-50ae88d24ede h1:YOWlONzJUq456SnNYPcK/org5asA+LU6AzNBm+l/04o=
 k8s.io/kube-openapi v0.0.0-20180216212618-50ae88d24ede/go.mod h1:BXM9ceUBTj2QnfH2MK1odQs778ajze1RxcmP6S8RVVc=
-k8s.io/kubernetes v1.14.2 h1:VSc6c2j7R2SU+daLVhBOMtPVykxnkoCoNs+nknFlBYk=
+#k8s.io/kubernetes v1.14.2 h1:VSc6c2j7R2SU+daLVhBOMtPVykxnkoCoNs+nknFlBYk=
+k8s.io/kubernetes v1.14.2 h1:Gdq2hPpttbaJBoClIanCE6WSu4IZReA54yhkZtvPUOo=
 k8s.io/kubernetes v1.14.2/go.mod h1:ocZa8+6APFNC2tX1DZASIbocyYT5jHzqFVsY5aoB7Jk=
